@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>wackadoosports</title>
+<title>nighatcorporation</title>
 @include('Partials.customcss')
 </head>
 <body>
@@ -27,7 +27,7 @@
     <div class="container">
         <div class="blc-layer3-main">
                <div class="col-md-4 blc-layer3-grids1">
-                    <h6>Wackadoosports</h6>
+                    <h6>Nighatcorporation</h6>
                     <h3>Product Quality</h3>
                     <p>we dont compromise over quality of products and
 we give first priority to our customer requirments
